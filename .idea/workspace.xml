@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d6e935-7bf2-4bd5-ba54-e4e0afe479d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VsPk44hOE7S9l4UncERfORsiBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.huoo.rabbitmq.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huoo.reciver.reciver" />
+      <recent name="com.huoo.rabbitmq.config" />
+      <recent name="com.huoo.reciver.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReciverApplicationTests.contextLoads">
+    <configuration name="RabbitmqApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huoo.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huoo.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.huoo.rabbitmq.RabbitmqApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciverApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reciver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huoo.reciver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huoo.reciver" />
+      <option name="MAIN_CLASS_NAME" value="com.huoo.reciver.ReciverApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huoo.rabbitmq.RabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reciver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huoo.reciver.ReciverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReciverApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.RabbitmqApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d6e935-7bf2-4bd5-ba54-e4e0afe479d7" name="Default Changelist" comment="" />
+      <created>1578038968695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578038968695</updated>
+      <workItem from="1578038973029" duration="7941000" />
+      <workItem from="1578272995338" duration="27000" />
+      <workItem from="1578273056142" duration="17622000" />
+      <workItem from="1578301685227" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1578042159185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1578042159185" />
+    <state x="690" y="298" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1578279548744">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="298" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578279548744" />
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578273013698">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578273013698" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578040562846">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578040562846" />
+    <state x="416" y="102" key="CommitChangelistDialog2" timestamp="1578301756577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="102" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578301756577" />
+    <state x="739" y="278" key="FileChooserDialogImpl" timestamp="1578280385563">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="278" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578280385563" />
+    <state x="773" y="418" width="397" height="214" key="Github.CreateGistDialog" timestamp="1578274785190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="773" y="418" width="397" height="214" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578274785190" />
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom" timestamp="1578301803650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578301803650" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578299584631" />
+    <state width="1877" height="313" key="GridCell.Tab.0.center" timestamp="1578301803650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578301803650" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578299584630" />
+    <state width="1877" height="313" key="GridCell.Tab.0.left" timestamp="1578301803650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578301803650" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578299584630" />
+    <state width="1877" height="313" key="GridCell.Tab.0.right" timestamp="1578301803650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578301803650" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578299584630" />
+    <state width="1877" height="2" key="GridCell.Tab.1.bottom" timestamp="1578301624613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578301624613" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578299559105" />
+    <state width="1877" height="2" key="GridCell.Tab.1.center" timestamp="1578301624612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578301624612" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578299559105" />
+    <state width="1877" height="2" key="GridCell.Tab.1.left" timestamp="1578301624612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578301624612" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578299559105" />
+    <state width="1877" height="2" key="GridCell.Tab.1.right" timestamp="1578301624613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578301624613" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578299559105" />
+    <state width="1293" height="378" key="GridCell.Tab.2.bottom" timestamp="1578279813700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="378" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578279813700" />
+    <state width="1293" height="378" key="GridCell.Tab.2.center" timestamp="1578279813700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="378" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578279813700" />
+    <state width="1293" height="378" key="GridCell.Tab.2.left" timestamp="1578279813700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="378" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578279813700" />
+    <state width="1293" height="378" key="GridCell.Tab.2.right" timestamp="1578279813700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="378" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578279813700" />
+    <state x="583" y="219" width="779" height="611" key="NewModule_or_Project.wizard" timestamp="1578280416987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="583" y="219" width="779" height="611" key="NewModule_or_Project.wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1578280416987" />
+    <state x="453" y="163" key="SettingsEditor" timestamp="1578301701264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578301701264" />
+    <state x="453" y="165" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578291412766" />
+    <state x="742" y="300" key="chooseDestDirectoryDialog" timestamp="1578279575025">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="300" key="chooseDestDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578279575025" />
+    <state x="709" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578279575364">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="709" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578279575364" />
+    <state x="334" y="223" key="new project wizard" timestamp="1578280201529">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="223" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1578280201529" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huoo/rabbitmq/RabbitmqApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reciver/src/main/java/com/huoo/reciver/config/MessageListenerConfig.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reciver/src/main/java/com/huoo/reciver/reciver/SendMessageController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
